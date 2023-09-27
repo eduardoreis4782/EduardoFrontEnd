@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(90deg,#33ff00, #FF3600, #ffee00, #0020B3, #00fff2);
+    color: black;
+  }
+  p {
+    color: black;
+  }
