@@ -1,0 +1,32 @@
+
+header {
+
+    background-color: rgba(0, 0, 0, 0.829);
+    color: rgb(255, 0, 242);
+    padding: 10px;
+    text-align: center;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    nav ul li {
+    display: inline;
+    margin-right: 20px;
+    }
+    nav ul li a {
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+        font-weight: bolder;
+    }
+    nav ul li a:hover {
+        color: rgb(174, 0, 255);
+        text-decoration: underline;
+    }
+
+    
+body {
+  background-image: url(wallhaven-\ carro.jpg);
+
+}
+
+
